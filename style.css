@@ -1,0 +1,54 @@
+
+body{
+	background-image: url("https://cdn.shopify.com/s/files/1/0175/5890/products/YC191_2048x2048.jpg");
+	margin-top: 100px;
+}
+
+.all{
+	font-family: 'Raleway', sans-serif;
+	margin-top: 0;
+	margin-bottom: 0;
+
+}
+
+.craft, .clear{
+	display: flex;
+	justify-content: center;
+
+}
+
+.clear{
+	margin-top: 10px
+}
+
+img {
+    border-radius: 95%;
+    margin-bottom: 20px;
+}
+
+
+h2{font-family: 'Raleway', sans-serif;
+color: white;
+margin-bottom: 20px;
+}
+
+.title{
+	display: flex;
+	justify-content: center;
+}
+
+.words{
+	display: flex;
+	justify-content: center;
+}
+
+.btn-primary{
+	background-color: #ff7600;
+	border: 2px solid orange;
+}
+
+.btn-primary:hover{
+	background-color: orange;
+	border: 2px solid orange;
+
+}
